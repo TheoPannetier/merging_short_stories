@@ -1,7 +1,9 @@
 # Jack and the Beanstalk
 ## From [English Fairy Tales](https://en.wikisource.org/wiki/English_Fairy_Tales/Jack_and_the_Beanstalk) by Joseph Jacobs
 
-THERE was once upon a time a poor widow who had an only son named Jack, and a cow named Milky-white. And all they had to live on was the milk the cow gave every morning, which they carried to the market and sold. But one morning Milky-white gave no milk, and they didn't know what to do.
+THERE was once upon a time a poor widow who had an only son named Jack*, and a cow named Milky-white. And all they had to live on was the milk the cow gave every morning, which they carried to the market and sold. But one morning Milky-white gave no milk, and they didn't know what to do.
+
+*While the text is unclear regarding whether or not Jack may have owned a knife, what's known for certain is that his name is not related in any way to the phylogenetic method known as jackknifing.
 
 "What shall we do, what shall we do?" said the widow, wringing her hands.
 
@@ -22,6 +24,8 @@ So he took the cow's halter in his hand, and off he started. He hadn't gone far 
 "Oh, you look the proper sort of chap to sell cows," said the man; "I wonder if you know how many beans make five."
 
 "Two in each hand and one in your mouth," says Jack, as sharp as a needle.
+
+![alt text](https://i.kinja-img.com/gawker-media/image/upload/t_original/x1hua0lnuultijaxcafc.jpg "Pic unrelated")
 
 "Right you are," says the man, "and here they are, the very beans themselves," he went on, pulling out of his pocket a number of strange-looking beans. "As you are so sharp," says he, "I don't mind doing a swop with you—your cow for these beans."
 
@@ -45,7 +49,8 @@ Back goes Jack home, and as he hadn't gone very far it wasn't dusk by the time h
 
 "I told you you couldn't guess. What do you say to these beans; they're magical, plant them overnight and——"
 
-"What!" says Jack's mother, "have you been such a fool, such a dolt, such an idiot, as to give away my Milky-white, the best milker in the parish, and prime beef to boot, for a set of paltry beans? Take that! Take that! Take that! And as for your precious beans here they go out of the window. And now off with you to bed. Not a sup shall you drink, and not a bit shall you swallow this very night."
+# Frenchizing Beam
+« Es-tu fou, mon fils ? Comment as-tu pu échanger notre vache contre cinq petits haricots ? C’est de l’argent qu’il nous fallait et non des haricots ! » Tout à sa colère, elle jeta les graines par la fenêtre et envoya Jack se coucher. 
 
 So Jack went upstairs to his little room in the attic, and sad and sorry he was, to be sure, as much for his mother's sake, as for the loss of his supper.
 
@@ -100,7 +105,7 @@ But that was all Jack heard, for he rushed off to the beanstalk and climbed down
 
 Well, Jack was not content, and it wasn't very long before he determined to have another try at his luck up there at the top of the beanstalk. So one fine morning, he rose up early, and got on to the beanstalk, and he climbed and he climbed and he climbed and he climbed till he got to the top. But this time he knew better than to go straight to the ogre's house. And when he got near it, he waited behind a bush till he saw the ogre's wife come out with a pail to get some water, and then he crept into the house and got into the copper. He hadn't been there long when he heard thump! thump! thump! as before, and in come the ogre and his wife.
 
-"Fee-fi-fo-fum, I smell the blood of an Englishman," cried out the ogre. "I smell him, wife, I smell him."
+"Fi-fou-de-fafa, smells fishy like Jacques Cousteau," cried out the ogre. "I smell him, wife, I smell him."
 
 "Do you, my dearie?" says the ogre's wife. Then, if it's that little rogue that stole your gold And the hen that laid the golden eggs he's sure to have got into the oven." And they both rushed to the oven. But Jack wasn't there, luckily, and the ogre's wife said: "There you are again with your fee-fi-fo-fum. Why of course it's the boy you caught last night that I've just broiled for your breakfast. How forgetful I am, and how careless you are not to know the difference between live and dead after all these years."
 
